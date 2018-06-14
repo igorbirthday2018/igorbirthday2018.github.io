@@ -9,7 +9,7 @@ body {
 }
 
 .text-container {
-    font-size: 80px;
+    font-size: 64px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -100,13 +100,13 @@ svg {
 }
 
 .size-1 {
-    width: 600px;
-    font-size: 48px;
+    width: 100%;
+    font-size: 42px;
 }
 
 .size-2 {
-    width: 600px;
-    font-size: 60px;
+    width: 100%;
+    font-size: 45px;
 }
 
 .style-2 {
